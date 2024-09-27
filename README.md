@@ -1,4 +1,4 @@
-# Implement a Sudoku Solver From Scratch
+# EX NO: 6 Implement a Sudoku Solver From Scratch
 
 ## Aim
  To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
@@ -17,11 +17,9 @@
 </ol>
 
 ## Program
-```
-Developed by: ASHWINA K N
-Reg No: 212223230025
 
-```
+
+
 ```
 M = 9
 def puzzle(a):
