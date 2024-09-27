@@ -1,5 +1,5 @@
 # ExpNo 6: Implement a Sudoku Solver From Scratch
-<h3>Name:ASHWINA K N </h3>
+<h3>Name: ASHWINA K N </h3>
 <h3>Register Number: 212223230025   </h3>
 
 ## Aim
